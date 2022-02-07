@@ -4,8 +4,9 @@ layout: default
 
 1. GNU/Linux
 - [GNU/Linux](https://antisec12.github.io/presentation/gnulinux/)
-- [Fedora Linux](https://antisec12.github.io/presentation/fedora/)
-  - none
+  - [Fedora](https://antisec12.github.io/presentation/fedora/)
+  - Ubuntu
+ - none
     - none
     - none
 
