@@ -2,19 +2,21 @@
 layout: default
 ---
 
-1. GNU/Linux
+0. GNU/Linux
 - [GNU/Linux](https://antisec12.github.io/presentation/gnulinux/)
   - [Fedora](https://antisec12.github.io/presentation/fedora/)
   - Ubuntu
- - none
-    - none
-    - none
 
-2. Network
+
+
+1. Network
 - [TOR](https://antisec12.github.io/presentation/Tor/)
   - none
   - none
-    - none
-    - none
 
+
+2. DevOps
+- [introduction]()
+  - none
+  - none
 
