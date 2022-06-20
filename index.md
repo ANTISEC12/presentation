@@ -16,7 +16,7 @@ layout: default
 
 
 2. DevOps
-- [introduction]()
+- [introduction](https://antisec12.github.io/presentation/DevOps/)
   - none
   - none
 
